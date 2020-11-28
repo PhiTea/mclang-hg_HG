@@ -1,0 +1,10 @@
+{
+  package: {
+    name: "hg_HG",
+    version: "0.0.1",
+    author: "PhiTea",
+    email: "hellogwkki@outlook.com",
+    description: "\u6211\u7684\u4e16\u754c\u706b\u9505\u7b80\u4f53\u4e2d\u6587%28hg_hg%29\u8bed\u8a00\u5305\u3002",
+    website: "https://phitea.github.io/mclang-hg_HG/"
+  }
+}
