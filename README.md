@@ -16,19 +16,7 @@
 
 ## 安装
 
-目前只支持下载 Release 或者克隆 Repo，运行 install/install.exe。
-- 下载 Release
-  1. 点击右侧的 Release 链接
-  2. 选择适合你所拥有的 Minecraft 版本的 mclang-hg_HG-vx.x.x.zip
-  3. 点击下载
-  4. 将 zip 文件拖到启动器下的。minecraft/resourcepacks/文件夹
-  5. 启动 Minecraft
-- 克隆 Repo
-  1. 用 git clone 或点击绿色的 Code 按钮，选择 Download zip（还需解压）下载 Repo
-  2. 运行文件夹里的 install/install.exe
-  3. 根据提示配置
-  4. 将生成的 mclang-hg_HG.zip 拖到启动器下的。minecraft/resourcepacks/文件夹
-  5. 启动 Minecraft
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooo :)
 
 ## 感谢
 
